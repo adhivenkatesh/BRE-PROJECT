@@ -1,0 +1,16 @@
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\UnitTestBRE-Project.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\UnitTestBRE-Project.pdb
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\obj\Debug\UnitTestBRE-Project.csprojAssemblyReference.cache
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\obj\Debug\UnitTestBRE-Project.csproj.CopyComplete
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\obj\Debug\UnitTestBRE-Project.dll
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\obj\Debug\UnitTestBRE-Project.pdb
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\BRE-PROJECT.exe
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\BRE-PROJECT.pdb
+D:\DOTNET-FAMILIES\CONSOLE-APPS\BRE-PROJECT\UnitTestBRE-Project\bin\Debug\BRE-PROJECT.exe.config

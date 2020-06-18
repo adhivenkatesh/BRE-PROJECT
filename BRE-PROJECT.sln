@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRE-PROJECT", "BRE-PROJECT.csproj", "{EC8CBC8F-3045-499D-8662-A6562C7EF2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBRE-Project", "UnitTestBRE-Project\UnitTestBRE-Project.csproj", "{9D322A98-6FC3-4335-BC09-5A582EED9663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3ADF5844-518A-44A8-85FA-897EF212A0DD}"
+	ProjectSection(SolutionItems) = preProject
+		PROJECT-DETAILS.txt = PROJECT-DETAILS.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8CBC8F-3045-499D-8662-A6562C7EF2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8CBC8F-3045-499D-8662-A6562C7EF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8CBC8F-3045-499D-8662-A6562C7EF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8CBC8F-3045-499D-8662-A6562C7EF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D322A98-6FC3-4335-BC09-5A582EED9663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D322A98-6FC3-4335-BC09-5A582EED9663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D322A98-6FC3-4335-BC09-5A582EED9663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D322A98-6FC3-4335-BC09-5A582EED9663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D27E761-A2E6-46D6-9FDA-3826BEE931E4}
+	EndGlobalSection
+EndGlobal

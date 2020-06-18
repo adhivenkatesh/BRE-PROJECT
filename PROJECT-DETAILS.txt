@@ -1,0 +1,8 @@
+IN THIS PROJECT
+================================================================================
+BRLAYER- BUSINESS LOGIC LAYER
+
+1. CREATIONAL FACTORY DESIGN PATTERN USED (DESIFACTORY)
+
+2. UNIT TEST USED FOR THE ALL THE PAYMENT METHOD
+
